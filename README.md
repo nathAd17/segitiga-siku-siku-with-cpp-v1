@@ -46,5 +46,3 @@ Sekarang Anda dapat menjalankan dan melihat output dari ketiga versi program seg
 Terima kasih telah mengunjungi repository saya!
 
 ---
-
-Anda dapat menyimpan pesan ini dalam file README.md di repository GitHub Anda. Jangan lupa untuk mengganti `username` dengan nama pengguna GitHub Anda dan menyesuaikan dengan detail spesifik dari repository Anda.
